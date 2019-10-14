@@ -88,4 +88,4 @@ Vue.prototype.$EventBus = new Vue();
         
     }
 ```
-**다른 컴포넌트에서 발생시켰다.**
+**다른 컴포넌트에서 발생시켰다.**"# VueTodoList" 
